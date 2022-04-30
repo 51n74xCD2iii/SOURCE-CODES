@@ -1,6 +1,6 @@
 pragma solidity ^0.8.5;
 
-import 'blank'
+import 'https://github.com/The-Divine-Void/SOURCE-CODES/blob/master/french%20man%20code'
 
 contract TERRYTOKEN is ERC20 {
   address public admin;
